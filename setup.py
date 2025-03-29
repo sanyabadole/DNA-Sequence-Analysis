@@ -12,7 +12,7 @@ setup(
         "wheel>=0.37.0",
     ],
     author="Sanya Badole",
-    author_email="sanyabadole@gmail.com",
+    author_email="sanyabadole1@gmail.com",
     description="A DNA sequence analysis tool for PCR primer analysis and sequence alignment",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
@@ -20,7 +20,6 @@ setup(
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Science/Research",
-        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
